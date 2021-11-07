@@ -87,6 +87,11 @@ nav ul{
     padding:0;
 }
 
+div a{
+    color:#E6EEFC;
+    text-decoration: none;
+}
+
 li a{
     color:#E6EEFC;
     text-decoration: none;
